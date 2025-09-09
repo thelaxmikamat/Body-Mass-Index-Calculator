@@ -1,10 +1,13 @@
 # Body-Mass-Index-Calculator
 A simple Body Mass Index (BMI) calculator. Built with **HTML, CSS, JavaScript**.
 
+## 🔗Link
+- Check it out here → [Live Project](https://thelaxmikamat.github.io/Body-Mass-Index-Calculator/)
+
 🌟 Features
   - Input **age, gender, height (in feet) and weight (in kg)**.
-  - Calculate and displays **BMI instantly**.
-  - Having **invalid** feature for age, height and weight.
+  - Calculates and displays **BMI instantly**.
+  - Having **input validation** feature for age, height and weight.
   - **Clear** button to reset everything.
   - Simple **UI**.
 
@@ -15,6 +18,6 @@ A simple Body Mass Index (BMI) calculator. Built with **HTML, CSS, JavaScript**.
 
 🚀 How to Run
   - Clone or download this repository.
-  - Open *BMI.html* in your browser.  
+  - Open *index.html* in your browser.  
   - Enter your details and click **Calculate**. 
   
